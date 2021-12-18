@@ -1,3 +1,4 @@
+mod schema;
 mod server;
 
 extern crate log;
